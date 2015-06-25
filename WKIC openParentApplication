@@ -1,0 +1,3 @@
+[WKInterfaceController openParentApplication:@{@"key":@"value"} reply:^(NSDictionary *replyInfo, NSError *error) {
+        //
+    }];
